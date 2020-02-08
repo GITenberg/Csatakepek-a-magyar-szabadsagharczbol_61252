@@ -1,0 +1,36 @@
+_repo: Csatakepek-a-magyar-szabadsagharczbol_61252
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Mor
+    - Jokai, Maurus
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia:
+    - https://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+    - https://fi.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+    - https://hu.wikipedia.org/wiki/J%C3%B3kai_M%C3%B3r
+description: ''
+gutenberg_issued: '2020-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61252'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungary -- Fiction'
+- !lcsh 'Hungary -- History -- Uprising of 1848-1849 -- Fiction'
+- GITenberg
+tableOfContents: A két menyasszony -- Egy bál -- Az ércz leány -- Az elesett neje
+  -- Székely asszony -- A Bárdy család -- Komárom -- A fehér angyal -- A kis szürke
+  ember -- Nomen et omen -- A vörössipkás -- A szerencsétlen szélkakas -- Szegény
+  asszony áldozatja -- Egy bujdosó naplója.
+title: Csataképek a magyar szabadságharczból
+url: http://www.gutenberg.org/ebooks/61252
